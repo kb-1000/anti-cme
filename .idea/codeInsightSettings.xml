@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaProjectCodeInsightSettings">
+    <excluded-names>
+      <name>com.sun.org</name>
+      <name>com.sun.xml.internal</name>
+      <name>jdk.internal</name>
+      <name>jdk.nashorn.internal</name>
+    </excluded-names>
+  </component>
+</project>
